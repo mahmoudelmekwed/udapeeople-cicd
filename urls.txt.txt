@@ -1,0 +1,10 @@
+ 1- URL01 
+A public git repository with my project code
+
+ https://github.com/mahmoudelmekwed/udapeople-cicd.git
+
+2- URL02
+Public URL for your S3 Bucket (aka, your green candidate front-end) 
+
+
+ http://udapeople-4f1f20d.s3-website-us-east-1.amazonaws.com
